@@ -1,2 +1,3 @@
 # Dynamic-Group-Business-Website-WP
-"I designed the Dynamic Group Pest Control business website using WordPress. Check it out at dynamicgroup.pk to see how we can help you manage your pest problems efficiently."
+Dynamic Group Pest Control is a website that I designed using WordPress. As a professional web designer, I created a dynamic and engaging site that provides all the necessary information about pest control services. The website is visually appealing with easy navigation, allowing users to quickly find the information they need. It has all the features that a business website requires, including a contact form and information about services offered. The website's responsive design makes it accessible on all devices. By visiting the link dynamicgroup.pk, you can see the website and its impressive design firsthand.
+You can check the mazing work by visiting the website: https://dynamicgroup.pk/
